@@ -11,6 +11,7 @@ WorldIndex réunit un **Studio Windows pour construire ses univers** et un **sit
 Le Studio fonctionne hors ligne avec une bibliothèque locale. Il permet de :
 
 - Construire des univers et organiser leurs continents, pays, régions, villes et villages.
+- Documenter les races, peuples, cultures, la faune et la flore, puis relier ces fiches aux personnages et aux lieux.
 - Écrire des récits et construire une chronologie, avec des événements liés aux lieux et aux histoires.
 - Créer des fiches de personnages, d’objets et de magies, et les rattacher à un univers.
 - Organiser les illustrations, les galeries, les tags et les notes de travail.
@@ -28,11 +29,19 @@ Les cadres sont des **décorations de présentation** : une image avec son cadre
 
 Les indices de génération par IA sont recherchés automatiquement dans les métadonnées des fichiers. Un badge **« IA probable »** peut être contesté par l’auteur pour revue. L’absence d’indice ne certifie pas une origine humaine ; cette analyse ne reconnaît pas les pixels d’une image dont les métadonnées ont été retirées.
 
-## Version actuelle : 4.0.2
+## Version actuelle : 4.1.0
 
-Le Studio reprend l’identité visuelle du site : **bleu nuit, ardoise et ivoire**, navigation sombre, panneaux clairs, titres, boutons et formulaires harmonisés. Les univers, les fiches, les galeries, les paramètres, le compte et l’icône Windows suivent cette identité.
+L’encyclopédie de chaque univers accueille les **races et espèces, peuples et ethnies, cultures, faune et flore**, avec des champs propres à chaque catégorie et des notes de travail privées.
 
-[Consulter les changements de la version 4.0.2](https://github.com/Azashiin/my-characters-library-releases/releases/tag/v4.0.2)
+Dans **Univers & récits → Créations liées**, associez vos personnages, objets et magies. Dans **Liens entre fiches**, reliez leurs appartenances, cultures, habitats, origines, usages, ressources et présences dans les récits ou les événements. Une relation se retrouve dans les deux sens ; plusieurs appartenances sont possibles.
+
+Les fiches et les liens commencent en privé. Les présentations choisies se publient avec leur univers après synchronisation. Sur le site, chaque fiche publique possède son adresse et ses liens pour poursuivre l’exploration. Les notes et les références vers des fiches privées sont exclues de la publication.
+
+Les univers historiques restent lisibles. L’export `.myworld` et les sauvegardes conservent les fiches et leurs liens. Les univers utilisant cette nouvelle structure nécessitent Studio 4.1 ou une version suivante pour être modifiés.
+
+Le Studio et le site partagent une identité **bleu nuit, ardoise et ivoire**.
+
+[Consulter les changements de la version 4.1.0](https://github.com/Azashiin/my-characters-library-releases/releases/tag/v4.1.0)
 
 ## Installer ou mettre à jour
 
