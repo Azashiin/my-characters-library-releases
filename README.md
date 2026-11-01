@@ -29,21 +29,22 @@ Les cadres sont des **décorations de présentation** : une image avec son cadre
 
 Les indices de génération par IA sont recherchés automatiquement dans les métadonnées des fichiers. Un badge **« IA probable »** peut être contesté par l’auteur pour revue. L’absence d’indice ne certifie pas une origine humaine ; cette analyse ne reconnaît pas les pixels d’une image dont les métadonnées ont été retirées.
 
-## Version actuelle : 4.1.1
+## Version actuelle : 4.2.0
 
-Les fiches de **races et espèces, peuples et ethnies, cultures, faune et flore** peuvent recevoir une illustration principale, avec légende, crédit et source, depuis **Univers & récits → Encyclopédie**.
+Le **Studio est l’espace d’écriture** : les textes narratifs disposent d’un éditeur visuel avec titres, gras, italique, barré, listes, citations, liens, tableaux, séparateurs, annuler/rétablir, aperçu et mode plein écran. Les prompts gardent leur saisie exacte. Les exports et sauvegardes conservent les textes et leur mise en forme.
 
-- Les illustrations suivent la visibilité des fiches et se publient avec l’univers après enregistrement et synchronisation.
-- Les exports `.myworld`, les sauvegardes et la restauration conservent les images. Un import crée une copie privée.
-- Le site propose un accès **Explorer l’univers complet**, avec les rubriques réellement publiées : races, peuples, cultures, lieux, vivant, récits, chronologie et créations liées.
-- Les créations explicitement liées sont retrouvées même si leur ancien champ « univers » porte un autre nom.
-- La synchronisation des univers ne dépend plus de l’ordre des clés renvoyé par le serveur.
+Le **site est l’espace de présentation et de découverte**. Connectez-vous sur votre univers, une fiche ou une création et ouvrez **Personnaliser cette page** :
 
-L’analyse IA utilise les fichiers originaux ; le site présente des copies adaptées à la lecture, avec la possibilité de demander une revue privée du badge.
+- Trois modèles : encyclopédie, manuscrit ou dossier illustré.
+- Accents cobalt, violet ou cuivre ; police littéraire ou contemporaine ; taille de lecture et sommaire facultatif.
+- Aperçu avec votre propre contenu et vos illustrations, puis vérification sur la page avant enregistrement.
+- Héritage de la présentation de l’univers pour ses fiches, avec réglage individuel et réinitialisation.
 
-Les anciens univers restent lisibles. Les univers illustrés nécessitent Studio **4.1.1 ou suivant** pour être modifiés. Les fiches et les liens nouveaux commencent en privé ; les notes de travail restent privées.
+Les mises en page choisies sur le site sont conservées lorsque le Studio republie les textes. Chaque auteur contrôle ses présentations ; seuls les contenus publiés sont consultables publiquement.
 
-[Consulter les changements de la version 4.1.1](https://github.com/Azashiin/my-characters-library-releases/releases/tag/v4.1.1)
+Les races, peuples et ethnies, cultures, faune et flore gardent leurs illustrations, crédits, appartenances et liens. Les cadres décoratifs restent séparés des galeries.
+
+[Consulter les changements de la version 4.2.0](https://github.com/Azashiin/my-characters-library-releases/releases/tag/v4.2.0)
 
 ## Installer ou mettre à jour
 
