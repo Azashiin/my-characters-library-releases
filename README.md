@@ -15,6 +15,7 @@ Le Studio fonctionne hors ligne avec une bibliothèque locale. Il permet de :
 - Écrire des récits et construire une chronologie, avec des événements liés aux lieux et aux histoires.
 - Créer des fiches de personnages, d’objets et de magies, et les rattacher à un univers.
 - Organiser les illustrations, les galeries, les tags et les notes de travail.
+- Retrouver toutes ses fiches avec Ctrl+K et des filtres par univers et type.
 - Personnaliser les cadres décoratifs et importer ou exporter ses créations.
 
 Une connexion permet de retrouver son profil et de partager les présentations choisies sur le site. Les univers commencent en privé ; les notes de travail, les prompts, les paramètres et les originaux restent dans la sauvegarde privée.
@@ -29,7 +30,20 @@ Les cadres sont des **décorations de présentation** : une image avec son cadre
 
 Les indices de génération par IA sont recherchés automatiquement dans les métadonnées des fichiers. Un badge **« IA probable »** peut être contesté par l’auteur pour revue. L’absence d’indice ne certifie pas une origine humaine ; cette analyse ne reconnaît pas les pixels d’une image dont les métadonnées ont été retirées.
 
-## Version actuelle : 4.2.0
+## Version actuelle : 4.3.0
+
+**Ctrl+K** ou **Rechercher** dans la barre supérieure ouvre une recherche dans toutes les fiches enregistrées du Studio : univers, personnages, objets, magies, races, peuples, cultures, faune, flore, lieux, récits et événements.
+
+- Combinez les filtres **Univers** et **Type de fiche**.
+- Retrouvez un nom, un nom complet ou un alias, ou choisissez **Tout le texte** pour les descriptions, récits et notes de travail.
+- Consultez un extrait du passage trouvé et ouvrez directement la bonne fiche avec Entrée ou un clic.
+- Les fiches privées sont incluses localement ; la corbeille est exclue et les archives sont accessibles avec une option.
+- Échap ramène au travail en cours. Changer de fiche garde la confirmation des modifications non enregistrées.
+
+[Consulter les changements de la version 4.3.0](https://github.com/Azashiin/my-characters-library-releases/releases/tag/v4.3.0)
+
+## Écriture et présentation depuis la version 4.2
+
 
 Le **Studio est l’espace d’écriture** : les textes narratifs disposent d’un éditeur visuel avec titres, gras, italique, barré, listes, citations, liens, tableaux, séparateurs, annuler/rétablir, aperçu et mode plein écran. Les prompts gardent leur saisie exacte. Les exports et sauvegardes conservent les textes et leur mise en forme.
 
