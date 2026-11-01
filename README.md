@@ -29,19 +29,21 @@ Les cadres sont des **décorations de présentation** : une image avec son cadre
 
 Les indices de génération par IA sont recherchés automatiquement dans les métadonnées des fichiers. Un badge **« IA probable »** peut être contesté par l’auteur pour revue. L’absence d’indice ne certifie pas une origine humaine ; cette analyse ne reconnaît pas les pixels d’une image dont les métadonnées ont été retirées.
 
-## Version actuelle : 4.1.0
+## Version actuelle : 4.1.1
 
-L’encyclopédie de chaque univers accueille les **races et espèces, peuples et ethnies, cultures, faune et flore**, avec des champs propres à chaque catégorie et des notes de travail privées.
+Les fiches de **races et espèces, peuples et ethnies, cultures, faune et flore** peuvent recevoir une illustration principale, avec légende, crédit et source, depuis **Univers & récits → Encyclopédie**.
 
-Dans **Univers & récits → Créations liées**, associez vos personnages, objets et magies. Dans **Liens entre fiches**, reliez leurs appartenances, cultures, habitats, origines, usages, ressources et présences dans les récits ou les événements. Une relation se retrouve dans les deux sens ; plusieurs appartenances sont possibles.
+- Les illustrations suivent la visibilité des fiches et se publient avec l’univers après enregistrement et synchronisation.
+- Les exports `.myworld`, les sauvegardes et la restauration conservent les images. Un import crée une copie privée.
+- Le site propose un accès **Explorer l’univers complet**, avec les rubriques réellement publiées : races, peuples, cultures, lieux, vivant, récits, chronologie et créations liées.
+- Les créations explicitement liées sont retrouvées même si leur ancien champ « univers » porte un autre nom.
+- La synchronisation des univers ne dépend plus de l’ordre des clés renvoyé par le serveur.
 
-Les fiches et les liens commencent en privé. Les présentations choisies se publient avec leur univers après synchronisation. Sur le site, chaque fiche publique possède son adresse et ses liens pour poursuivre l’exploration. Les notes et les références vers des fiches privées sont exclues de la publication.
+L’analyse IA utilise les fichiers originaux ; le site présente des copies adaptées à la lecture, avec la possibilité de demander une revue privée du badge.
 
-Les univers historiques restent lisibles. L’export `.myworld` et les sauvegardes conservent les fiches et leurs liens. Les univers utilisant cette nouvelle structure nécessitent Studio 4.1 ou une version suivante pour être modifiés.
+Les anciens univers restent lisibles. Les univers illustrés nécessitent Studio **4.1.1 ou suivant** pour être modifiés. Les fiches et les liens nouveaux commencent en privé ; les notes de travail restent privées.
 
-Le Studio et le site partagent une identité **bleu nuit, ardoise et ivoire**.
-
-[Consulter les changements de la version 4.1.0](https://github.com/Azashiin/my-characters-library-releases/releases/tag/v4.1.0)
+[Consulter les changements de la version 4.1.1](https://github.com/Azashiin/my-characters-library-releases/releases/tag/v4.1.1)
 
 ## Installer ou mettre à jour
 
